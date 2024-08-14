@@ -6,6 +6,10 @@ export default function Home() {
       <Box />
       <Round />
       <Box />
+      <Box />
+      <Box />
+
+      <Box />
     </>
   );
 }
