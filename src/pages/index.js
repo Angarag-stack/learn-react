@@ -8,7 +8,6 @@ export default function Home() {
       <Box />
       <Box />
       <Round />
-      <Box />
     </>
   );
 }
