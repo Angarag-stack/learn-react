@@ -1,9 +1,16 @@
 import styles from "./Skills.module.css";
 
 export function Skills() {
-  return <p className={styles.Skills}>SKILLS</p>;
+  return (
+    <>
+      <p className={styles.Skills}>SKILLS</p>
+      {ListItems.map((item) => {
+        return <div className={styles.SkillsName}>{item}</div>;
+      })}
+    </>
+  );
 }
-const ListItem = [
+const ListItems = [
   "HTML",
   "CSS",
   "Sass",

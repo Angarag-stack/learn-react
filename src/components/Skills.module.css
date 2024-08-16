@@ -1,3 +1,11 @@
 .Skills {
   font-size: 15px;
 }
+.SkillsName {
+  background-color: aqua;
+  border-radius: 5px;
+  margin: 25px;
+  width: 70px;
+
+  text-align: center;
+}
