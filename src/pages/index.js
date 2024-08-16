@@ -9,8 +9,6 @@ export default function HomePage() {
       <Box />
       <Box />
       <Box />
-
-      <Box />
     </>
   );
 }
