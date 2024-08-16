@@ -1,6 +1,7 @@
 import { Box } from "../components/Box";
 import { Round } from "../components/Round";
-export default function Home() {
+
+export default function HomePage() {
   return (
     <>
       <Box />
