@@ -1,0 +1,15 @@
+.Date {
+  color: gray;
+
+  margin-bottom: 20px;
+}
+.Clock {
+  width: 10px;
+  height: 10px;
+  padding-top: 20px;
+  margin-right: 5px;
+  margin-left: 10px;
+}
+.DateClock {
+  display: flex;
+}

@@ -4,8 +4,15 @@
 .SkillsName {
   background-color: aqua;
   border-radius: 5px;
-  margin: 25px;
+  margin: 10px;
   width: 70px;
 
   text-align: center;
+}
+.container {
+  display: flex;
+}
+.flex {
+  display: flex;
+  flex-wrap: wrap;
 }

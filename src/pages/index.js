@@ -1,14 +1,3 @@
-import { Box } from "../components/Box";
-import { Round } from "../components/Round";
-
-export default function HomePage() {
-  return (
-    <>
-      <Box />
-      <Round />
-      <Box />
-      <Box />
-      <Box />
-    </>
-  );
+export default function Home() {
+  return <h1 className="text-3xl font-bold underline">Hello world!</h1>;
 }
